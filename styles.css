@@ -186,6 +186,8 @@ img {
 }
 
 .paragraph2 {
+    width: 121px;
+    height: 20px;
     font-size: 14px;
     font-weight: 400;
     line-height: 20.3px;
@@ -200,6 +202,5 @@ img {
     font-weight: 500;
     padding: 4px 8px 4px 8px;
     gap: 8px;
-    border-radius: 7px;
     color: #0B4F3E;
 }
